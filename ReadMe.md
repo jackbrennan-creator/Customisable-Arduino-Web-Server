@@ -40,7 +40,7 @@ void loop()
 
 To customise this default server to display a different page, is just a 
 matter of deriving a new class from the custom_server class and
-overriding its send_content function. A complete example such a derived class
+overriding its send_content function. A complete example of such a derived class
 is shown below.
 
 ```
