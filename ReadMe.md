@@ -11,7 +11,7 @@ This library does the bulk of that for you including parsing HTTP commands
 and their query parameters. You just need to provide a function to specify 
 the HTML to be sent to the user's browser. 
 
-The a complete web server, which will generate a simple web page containing the 
+A complete web server, which will generate a simple web page containing the 
 heading "Test Server" is shown below. This is useful for checking that your 
 hardware is working and that the access point details are correct.
 
