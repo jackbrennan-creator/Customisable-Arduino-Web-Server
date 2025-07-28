@@ -1,5 +1,9 @@
 # Customisable Arduino Web Server #
 
+## Keywords ##
+
+Arduino, IOT, ESP32, Web Server
+
 ## Introduction ##
 
 This library supports the development of web servers for IOT applications 
