@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map For Custom_Server
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+custom_server	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+start	KEYWORD2
+initialise	KEYWORD2
+before_connecting	KEYWORD2
+connecting	KEYWORD2
+connected	KEYWORD2
+parse_header_line	KEYWORD2
+handle_get	KEYWORD2
+handle_post	KEYWORD2
+handle_head	KEYWORD2
+handle_put	KEYWORD2
+handle_delete	KEYWORD2
+send_content	KEYWORD2
+send_standard_header	KEYWORD2
+send_prevent_reposting_on_page_refresh_script	KEYWORD2
+send_ajax_request_script	KEYWORD2
+send_timer_script	KEYWORD2
+send_null_response	KEYWORD2
+send_not_found_response	KEYWORD2
+get_header_line_description	KEYWORD2
+get_header_line_value	KEYWORD2
+get_parameter	KEYWORD2
+get_content	KEYWORD2
+get_content_parameter	KEYWORD2
+decode_url	KEYWORD2
+encode_url	KEYWORD2
+show_command_information	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+ssid	LITERAL1
+password	LITERAL1
+server_name	LITERAL1
+command	LITERAL1
+source	LITERAL1
+parameters	LITERAL1
+content	LITERAL1
